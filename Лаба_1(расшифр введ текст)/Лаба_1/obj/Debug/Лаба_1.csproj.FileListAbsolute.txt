@@ -1,0 +1,10 @@
+C:\Users\arish\Downloads\ДЗ\Лаба_1\Лаба_1\bin\Debug\Лаба_1.exe.config
+C:\Users\arish\Downloads\ДЗ\Лаба_1\Лаба_1\bin\Debug\Лаба_1.exe
+C:\Users\arish\Downloads\ДЗ\Лаба_1\Лаба_1\bin\Debug\Лаба_1.pdb
+C:\Users\arish\Downloads\ДЗ\Лаба_1\Лаба_1\obj\Debug\Лаба_1.csproj.AssemblyReference.cache
+C:\Users\arish\Downloads\ДЗ\Лаба_1\Лаба_1\obj\Debug\Лаба_1.Properties.Resources.resources
+C:\Users\arish\Downloads\ДЗ\Лаба_1\Лаба_1\obj\Debug\Лаба_1.csproj.GenerateResource.cache
+C:\Users\arish\Downloads\ДЗ\Лаба_1\Лаба_1\obj\Debug\Лаба_1.csproj.CoreCompileInputs.cache
+C:\Users\arish\Downloads\ДЗ\Лаба_1\Лаба_1\obj\Debug\Лаба_1.exe
+C:\Users\arish\Downloads\ДЗ\Лаба_1\Лаба_1\obj\Debug\Лаба_1.pdb
+C:\Users\arish\Downloads\ДЗ\Лаба_1\Лаба_1\obj\Debug\Лаба_1.cezar.resources
